@@ -1,2 +1,2 @@
 # Pizza
-![](http://127.0.0.1:5500/img/pizza.jpg)
+![](file:///C:/Users/Maximo/Desktop/proyectos/proyecto16/portfolio.github.io/img/paginaWeb2.jpg)
