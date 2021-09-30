@@ -5,3 +5,4 @@
           forma mas pura puedes conservar dentro de una gigante red de
           emociones."
         </p>
+<img href="https://swittv.github.io/Pizza/img/pngwing.com.png"><img/>
