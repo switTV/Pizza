@@ -22,8 +22,8 @@ body{
 
 }
 
-@media (max-width:320px){
-    .img-pizza{
+@media (max-width:400px){
+    .img-pizza img{
         width: 200px;
     }
 }
