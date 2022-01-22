@@ -4,6 +4,7 @@
 }
 body{
     background-color: #fb8600d5;
+    overflow: hidden;
 }
 .contenedor-1{
     display: flex;
