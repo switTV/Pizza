@@ -21,3 +21,9 @@ body{
     }
 
 }
+
+@media (max-width:320px){
+    .img-pizza{
+        width: 200px;
+    }
+}
